@@ -11,4 +11,6 @@ For collaboration or questions about my projects, feel free to connect here on G
 
 Looking forward to connecting and building something amazing together!
 
-I write Code :)
+#
+
+`I write Code :)`
